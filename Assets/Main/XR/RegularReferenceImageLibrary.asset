@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: RegularReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4802582747386840993
+  m_GuidHigh: 11152862554982637719
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4658247836215114425
+      m_GuidHigh: 13792705979508696233
+    m_SerializedTextureGuid:
+      m_GuidLow: 13588727210524759895
+      m_GuidHigh: 4268033089266458123
+    m_Size: {x: 0.16, y: 0.16}
+    m_SpecifySize: 1
+    m_Name: video
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5140077693509835272
+      m_GuidHigh: 14562778446400881803
+    m_SerializedTextureGuid:
+      m_GuidLow: 8017654802514984540
+      m_GuidHigh: 18010871554398358347
+    m_Size: {x: 0.12, y: 0.12}
+    m_SpecifySize: 1
+    m_Name: quiz
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5311265619568274974
+      m_GuidHigh: 763898205745338798
+    m_SerializedTextureGuid:
+      m_GuidLow: 4468792445242092970
+      m_GuidHigh: 8883278558985491018
+    m_Size: {x: 0.16, y: 0.16}
+    m_SpecifySize: 1
+    m_Name: text
+    m_Texture: {fileID: 0}
